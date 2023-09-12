@@ -1,0 +1,12 @@
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager\CSVDLL\bin\Debug\net6.0\CSVDLL.deps.json
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager\CSVDLL\bin\Debug\net6.0\CSVDLL.dll
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager\CSVDLL\bin\Debug\net6.0\CSVDLL.pdb
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager\CSVDLL\obj\Debug\net6.0\CSVDLL.csproj.AssemblyReference.cache
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager\CSVDLL\obj\Debug\net6.0\CSVDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager\CSVDLL\obj\Debug\net6.0\CSVDLL.AssemblyInfoInputs.cache
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager\CSVDLL\obj\Debug\net6.0\CSVDLL.AssemblyInfo.cs
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager\CSVDLL\obj\Debug\net6.0\CSVDLL.csproj.CoreCompileInputs.cache
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager\CSVDLL\obj\Debug\net6.0\CSVDLL.dll
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager\CSVDLL\obj\Debug\net6.0\refint\CSVDLL.dll
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager\CSVDLL\obj\Debug\net6.0\CSVDLL.pdb
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager\CSVDLL\obj\Debug\net6.0\ref\CSVDLL.dll
